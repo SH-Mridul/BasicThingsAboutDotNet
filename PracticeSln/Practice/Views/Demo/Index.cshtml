@@ -1,0 +1,40 @@
+﻿@model Practice.Models.DemoModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<form asp-controller="Demo" asp-action="Index" asp-antiforgery="true" method="post">
+ 
+    <div class="form-group">
+        <label Asp-for="Name">Name</label>
+        <input type="text" asp-for="Name" class="form-control form-control-sm" placeholder="name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label Asp-for="Email">Email</label>
+        <input type="email" asp-for="Email" class="form-control form-control-sm" placeholder="name@example.com">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label Asp-for="Password">Password</label>
+        <input type="password" asp-for="Password" class="form-control form-control-sm" placeholder="***********">
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label Asp-for="ConfirmPassword">Confirm Password</label>
+        <input type="password" asp-for="ConfirmPassword" class="form-control form-control-sm" placeholder="***********">
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-sm btn-primary mt-3" style="display:block">Submit</button>
+</form>
+
+@section Scripts {
+    <script>
+        alert("hello");
+    </script>
+}
+

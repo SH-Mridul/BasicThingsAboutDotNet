@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\models\\product\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\models\\product\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\models\\product\\vhicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\models\\product\\vhicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\models\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\models\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\models\\product\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\models\\product\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\logs\\web-log-20241224.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\logs\\web-log-20241224.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\webmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|f:\\asp.net devskill\\practice\\asp.net initial\\practicesln\\practice\\models\\item\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25B280-929F-4667-83CA-12EF3E18EA24}|Practice\\Practice.csproj|solutionrelative:practice\\models\\item\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vhicle.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\product\\Vhicle.cs",
+              "RelativeDocumentMoniker": "Practice\\Models\\product\\Vhicle.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\product\\Vhicle.cs",
+              "RelativeToolTip": "Practice\\Models\\product\\Vhicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:16:51.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\product\\Electronics.cs",
+              "RelativeDocumentMoniker": "Practice\\Models\\product\\Electronics.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\product\\Electronics.cs",
+              "RelativeToolTip": "Practice\\Models\\product\\Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:15:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\product\\IProduct.cs",
+              "RelativeDocumentMoniker": "Practice\\Models\\product\\IProduct.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\product\\IProduct.cs",
+              "RelativeToolTip": "Practice\\Models\\product\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:14:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "web-log-20241224.log",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Logs\\web-log-20241224.log",
+              "RelativeDocumentMoniker": "Practice\\Logs\\web-log-20241224.log",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Logs\\web-log-20241224.log",
+              "RelativeToolTip": "Practice\\Logs\\web-log-20241224.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-24T03:06:10.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice\\appsettings.json",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\appsettings.json",
+              "RelativeToolTip": "Practice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T02:43:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebModule.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\WebModule.cs",
+              "RelativeDocumentMoniker": "Practice\\WebModule.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\WebModule.cs",
+              "RelativeToolTip": "Practice\\WebModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:40:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T01:38:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:37:30.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:20:39.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\Item\\IItem.cs",
+              "RelativeDocumentMoniker": "Practice\\Models\\Item\\IItem.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\Item\\IItem.cs",
+              "RelativeToolTip": "Practice\\Models\\Item\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:36:50.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\Item\\Item.cs",
+              "RelativeDocumentMoniker": "Practice\\Models\\Item\\Item.cs",
+              "ToolTip": "F:\\Asp.net Devskill\\Practice\\Asp.net initial\\PracticeSln\\Practice\\Models\\Item\\Item.cs",
+              "RelativeToolTip": "Practice\\Models\\Item\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:35:44.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
